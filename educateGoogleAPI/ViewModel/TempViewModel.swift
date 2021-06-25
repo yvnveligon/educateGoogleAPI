@@ -1,8 +1,8 @@
 //
-//  MoviesViewModel.swift
-//  CombineFetchAPI
+//  TraslateWordViewModel.swift
+//  educateGoogleAPI
 //
-//  Created by Tatiana Kornilova on 28/10/2019.
+//  Created by Рома Велигон on 26.02.2021.
 //
 
 import Combine

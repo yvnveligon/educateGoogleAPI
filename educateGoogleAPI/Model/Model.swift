@@ -1,4 +1,10 @@
 
+//
+//  TraslateWordViewModel.swift
+//  educateGoogleAPI
+//
+//  Created by Рома Велигон on 26.02.2021.
+//
 
 import Foundation
 
@@ -13,7 +19,7 @@ struct WordsDetail: Codable, Identifiable {
     }
 }
 
-// MARK: - Coord
+
 struct Translations: Codable {
      
     let translatedText: String?
@@ -21,7 +27,7 @@ struct Translations: Codable {
     
 }
 
-// MARK: - Main
+
 struct Data: Codable {
     let translations: [Translations]?
 }
